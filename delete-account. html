@@ -1,0 +1,37 @@
+<!DOCTYPE html><html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>شروط الخدمة</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f5f5f5;
+            padding: 20px;
+            direction: rtl;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 700px;
+            margin: auto;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>شروط الخدمة</h1>
+        <p>مرحبًا بك في تطبيقنا. باستخدامك هذا التطبيق، فإنك توافق على الالتزام بالشروط التالية:</p>
+        <p>1. لا نقوم بجمع أو تخزين أي بيانات شخصية من المستخدمين.</p>
+        <p>2. لا يُسمح باستخدام التطبيق لأي أنشطة غير قانونية أو مخالفة للأخلاق العامة.</p>
+        <p>3. نحن غير مسؤولين عن أي أضرار مباشرة أو غير مباشرة قد تنشأ من استخدام التطبيق.</p>
+        <p>4.
